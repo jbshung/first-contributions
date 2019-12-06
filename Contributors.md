@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - cmd-prompt
 -andreww
 - [Alan Kavanagh](https://github.com/goidel)
@@ -19089,3 +19089,4 @@ rehan
 - [ifuture-pro](https://github.com/ifuture-pro)
 - [Ajinkya-gore](https://github.com/ajinkya7)
 - [Anton Dikarev](https://github.com/TonyDik)
+- [Jessica Shung](https://github.com/jbshung)
